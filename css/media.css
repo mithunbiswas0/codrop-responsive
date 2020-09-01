@@ -1,0 +1,495 @@
+@media (min-width: 1200px) and (max-width: 1399px){
+
+
+    .navbar-brand img {
+        width: 32%;
+    }
+    .nav-item a, .btn {
+        color: #fff !important;
+        font-size: 24px;
+    }
+    header {
+        background-size: 700px;
+    }
+
+    header h1 {
+        font-size: 55px;
+    }
+    header p {
+        font-size: 23px
+    }
+    .blue {
+        padding: 16px 18px;
+        font-size: 20px;
+    }
+    .play {
+        font-size: 25px;
+    }
+
+    header i {
+        font-size: 31px;
+        background: #418ebe38;
+    }
+
+    .trust-part-contant h1 {
+        font-size: 34px;
+        font-weight: 600;
+    }
+    .trust-part-contant p {
+        font-size: 22px;
+        font-weight: 400;
+    }
+    .trust-part-contant.blue{
+        padding: 15px 20px;
+        font-size: 17px;
+    }
+
+    .qus-subject li {
+        font-size: 16px;
+        font-weight: bold;
+        margin: 13px 0;
+    }
+    .questsion h2 {
+        font-size: 33px;
+        line-height: 48px;
+        margin-top: 8px;
+    }
+    .s-pan {
+        color: #47B2E4;
+        font-size: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .footer-top h6 {
+        font-size: 20px;
+    }
+    .footer-top ul li a {
+        font-size: 17px;
+    }
+    .follow ul li a {
+        font-size: 25px;
+    }
+    .footer-botom p {
+        font-size: 14px;
+    }
+    .footer-botom img {
+        max-width: 90px;
+    }
+
+}
+@media (max-width: 1199px){
+
+    header p {
+        padding: 15px 0;
+        font-size: 17px;
+    }
+    
+        
+    header h1 {
+            font-size: 39px;
+        }
+    
+    .global i {
+        font-size: 35px;
+    }
+    .global h4 {
+        font-size: 19px;
+    }
+    .global p {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .global h2 {
+        font-size: 26px;
+    }
+
+    .trust-part{
+        background-size: 438px;
+        background-position-y: bottom;
+    }
+    .trust-part-contant p {
+        font-size: 17px;
+    }
+    .questsion h2 {
+        font-size: 26px;
+        line-height: 38px;
+        margin-top: 10px;
+    }
+    .s-pan {
+        font-size: 39px;
+    }
+    .qus-subject li {
+        font-size: 15px;
+    }
+
+}
+
+/* /////////// */
+
+
+@media (max-width: 991px){
+    header h1{
+        font-size: 34px;
+    }
+    header p {
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    .global h4 {
+        margin: 15px 0 25px;
+        font-size: medium;
+        font-weight: 600;
+    }
+    .global h2 {
+        
+        font-size: 19px;
+        margin-bottom: 15px;
+    }
+    .global p {
+        font-size: 12px;
+        line-height: 1.7;
+        margin-bottom: 10px;
+    }
+    .trust-part{
+        background-size: 360px;
+        background-position-y: bottom;
+    }
+    .trust-part-contant h1 {
+        font-size: 25px;
+        line-height: 1.4;
+    }
+    .trust-part-contant.blue{
+        padding: 9px 11px;
+        font-size: 10px;
+    }
+    .questsion h2 {
+        font-size: 49px;
+        line-height: 63px;
+        margin-top: 10px;
+        color: #111;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .s-pan {
+        font-size: 66px;
+        align-items: center;
+    }
+    .qus-subject li {
+        font-size: 24px;
+        font-weight: 400;
+        padding-left: 33px;
+    }
+
+
+    .reviews-deatils h2 {
+        font-size: 22px;
+    }
+    .reviews-deatils p {
+        font-size: 14px;
+    }
+
+    .email {
+        width: 100%;
+    }
+    .subscribe .btn {
+        padding: 1px 55px;
+    }
+    .hadding {
+        font-size: 10px;
+    }
+    .responsive-email h4 {
+        font-size: 25px;
+    }
+    .responsive-email p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .footer-top h6 {
+        font-size: 18px;
+    }
+    .footer-top ul li a {
+        font-size: 14px;
+    }
+    .follow ul li a {
+        font-size: 11px;
+    }
+    .footer-botom p {
+        font-size: 10px;
+    }
+
+}
+/* ////////////// */
+
+@media (max-width: 767px){
+
+    header h1 {
+        font-size: 41px;
+    }
+    header p {
+        font-size: 20px;
+    }
+    header{
+
+        background-image: none;
+    }
+
+    .global h4 {
+        margin: 15px 0 26px;
+        font-size: 11px;
+        font-weight: 900;
+    }
+
+    .global h2 {
+        font-size: 15px;
+    }
+
+
+    .global p {
+        font-size: 14px;
+        line-height: 1.7;
+        font-weight: 400;
+        margin-top: -8px;
+        margin-bottom: 4px;
+    }
+
+    .global i {
+        font-size: 27px;
+    }
+    .trust-part-contant h1 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .trust-part-contant p {
+        font-size: 12px;
+    }
+    .blue{
+        padding: 9px 10px;
+        font-size: 10px;
+    }
+    .trust-part {
+        background-size: 299px;
+    }
+    .questsion h2 {
+        font-size: 34px;
+    }
+    .s-pan {
+        font-size: 40px;
+    }
+    .qus-subject li {
+        font-size: 18px;
+        padding-left: 0;
+    }
+    .qus-subject span {
+        padding: 4px 5px;
+        font-size: 13px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .footer-top h6 {
+        font-size: 13px;
+    }
+    .footer-top ul li a {
+        font-size: 10px;
+    }
+    .follow ul li a {
+        font-size: 7px;
+    }
+    .footer-botom p {
+        font-size: 9px;
+        line-height: 18px;
+    }
+    .footer-botom img {
+        max-width: 83px;
+    }
+    .responsive-email {
+        padding-top: 31px;
+        width: 50%;
+        margin: auto;
+    }
+
+    .price-plan {
+        
+        margin-bottom: 30px;
+    }
+
+}
+
+/* /////////////// */
+
+@media (max-width: 575px){
+
+    .navbar-brand img {
+        width: 100px;
+    }
+
+    header{
+        background-image:none;
+       
+    }
+    
+   header h1 {
+        font-size: 40px;
+        text-align: center;
+
+    }
+    header p {
+        font-size: 18px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    .header-text {
+        
+        text-align: center;
+    }
+    header p {
+        font-size: 18px;
+        
+    }
+    header i{
+        font-size: 20px;
+    }
+
+    .global h2 {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .global .btn {
+        margin-left: 65px;
+        margin-top: 5px;
+    }
+    .trust-part{
+        background-image: none;
+    }
+    .trust-part-contant h1 {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .trust-part-contant p {
+        max-width: 70%;
+        font-size: 17px;
+    }
+
+    .reviews-deatils p {
+        
+        max-width: 73%;
+    }
+
+
+    .price-plan {
+        padding-right: 61px;
+        padding-left: 50px;
+    }
+
+
+
+
+    .responsive-email {
+        padding-top: 50px;
+        width: 50%;
+        margin: auto;
+    }
+    .subscribe .btn {
+        margin-top: 15px;
+    }
+    .responsive-email h4 {
+        font-size: 25px;
+    }
+    .responsive-email p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    footer {
+        text-align: center;
+    }
+    .follow,.learn,.help-support,.company-team {
+        border-top: 1px solid grey;
+        padding-top: 20px;
+    }
+    .follow ul {
+        display: inline-flex !important;
+    }
+   
+    .footer-top h6 {
+        font-size: 17px;
+    }
+    .footer-top ul li a {
+        font-size: 14px;
+    }
+    .footer-botom p {
+        font-size: 11px;
+        margin-bottom: 25px;
+    }
+    .footer-botom img {
+        max-width: 83px;
+        margin: 0;
+    }
+}
